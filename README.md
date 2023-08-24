@@ -1,1 +1,1 @@
-# hobby-projects-6
+# Node.js auto README
