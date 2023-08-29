@@ -1,21 +1,26 @@
-# my thing
+# m
+
+## Table of contents
+[Description](https://motty-mandel.github.io/hobby-projects-6/#Description)
+
+
 
 ## Description
-thing
+m
 
 ## Installation
-npm i
+m
 
 ## Usage
-as intended
-[link to the repo](github.com)
+m
+[link to the repo](m)
 
 ## Credits
-bootcamp
+m
 
 ## License
 MIT
 
 ## Questions
-Feel free to ask questions to - motty mandel,
-as well as motty mandel
+Feel free to ask questions to - m,
+as well as m
