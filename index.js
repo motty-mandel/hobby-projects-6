@@ -2,7 +2,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
-const generateReadme = ({name, describe, install, howToUse, link, credits, license}) =>
+const generateReadme = ({name, describe, install, howToUse, link, credits, license, username, email}) =>
 `# ${name}
 
 ## Description
@@ -63,7 +63,17 @@ inquirer
     type: 'list',
     message: 'Which license did you use for your repo?',
     name: 'license',
-    choices: ['MIT', 'Apache License 2.0'],
+    choices: ['MIT', 'Apache License 2.0', 'GPL 3.0', 'BSD 3'],
+},
+{
+    type: 'input',
+    message: 'What is your GitHub username?',
+    name: 'username',
+},
+{
+    type: 'input',
+    message: 'What is your email address?',
+    name: 'email',
 }
     ])
     .then((data) => {

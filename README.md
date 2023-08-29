@@ -1,17 +1,21 @@
-# Auto readme creator
+# my thing
 
 ## Description
-A web application that generates a README file based on the users answers
+thing
 
 ## Installation
-undefined
+npm i
 
 ## Usage
-As intended or any code snippets if needed
-[link-to-the-repo]()
+as intended
+[link to the repo](github.com)
 
 ## Credits
-Rutgers bootcamp
+bootcamp
 
 ## License
 MIT
+
+## Questions
+Feel free to ask questions to - motty mandel,
+as well as motty mandel
