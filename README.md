@@ -1,26 +1,16 @@
-# m
-
-## Table of contents
-[Description](https://motty-mandel.github.io/hobby-projects-6/#Description)
-
-
+# Readme auto generator
 
 ## Description
-m
+This is a node app that generated a README file based on user reponses
 
 ## Installation
-m
+npm i
 
 ## Usage
-m
-[link to the repo](m)
+Can be used as intended or reverse engineered etc.
 
 ## Credits
-m
+Rutgers bootcamp ta's
 
 ## License
 MIT
-
-## Questions
-Feel free to ask questions to - m,
-as well as m
